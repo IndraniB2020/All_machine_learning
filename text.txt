@@ -1,4 +1,0 @@
-if isinstance(df, pd.DataFrame):
-    print('pandas')
-else:
-    print('spark')
